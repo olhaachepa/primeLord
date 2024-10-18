@@ -1,0 +1,86 @@
+body {
+    color: white;
+    background: rgb(18, 32, 77);
+    margin:1px;
+    font-family: "Nunito", sans-serif;
+    margin-bottom: 100;
+}
+
+header {
+    border-bottom: solid 2px rgb(94, 16, 16);
+    padding: 20px;
+    font-size: 20px;
+    color:rgb(35, 152, 182)
+
+}
+
+
+.c1{
+    background: rgb(30, 54, 73, 1);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.c1{
+    margin-right: 5%;
+
+
+}
+
+h1{
+
+   font-size: 35px;
+
+}
+
+p{
+    font-size: 20px;
+
+}
+img{
+    height: 200px;
+
+}
+
+.c3{
+display: flex;
+ overflow-x: auto;
+ gap: 10px;
+}
+
+.categoria{
+padding-left: 20px;
+padding-right: 20px;
+
+
+}
+
+
+.c3 img{ 
+
+opacity: 0.5;
+height: 200px;
+
+
+
+}
+
+.c3 img:hover{
+
+opacity: 1.0;
+border: 1px solid rgb(214, 211, 8);
+
+}
+
+.categoria h2{
+
+color:rgb(35, 152, 182);
+
+}
+
+
+
